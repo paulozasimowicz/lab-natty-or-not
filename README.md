@@ -15,5 +15,7 @@ Para o processo de criação do Ebook usei o ChatGPT para ler meu trabalho e res
 ## 🚀 Resultados
 O trabalho apresenta um *review* bem legal de como os *smart textiles* já estão presentes no nosso cotidiano.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+[LEIA O EBOOK AQUI](Ebook_Texteis_Inteligentes.pdf)
+
+## 💭 Reflexão 
+Foi muito divertido ver como a inteligência artificial consegue resumir e criar uma estrutura de narrativa a partir de um trabalho acadêmico.
