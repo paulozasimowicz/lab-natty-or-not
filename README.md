@@ -1,7 +1,7 @@
 # Smart Textiles e sua revolução no mercado
 
 ## 📒 Descrição
-Meu projeto se baseia em EBOOK de 5 páginas de um resumo de meu trabalho de conclusão de curso '[Uma análise descritiva dos têxteis inteligentes](https://www.researchgate.net/publication/379508033_Uma_analise_descritiva_dos_texteis_inteligentes)' onde foi explorado sobre conceitos e inovações atuais no mundo dos *smart textiles*.
+Meu projeto se baseia em EBOOK de 8 páginas de um resumo de meu trabalho de conclusão de curso '[Uma análise descritiva dos têxteis inteligentes](https://www.researchgate.net/publication/379508033_Uma_analise_descritiva_dos_texteis_inteligentes)' onde foi explorado sobre conceitos e inovações atuais no mundo dos *smart textiles*.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
@@ -10,10 +10,10 @@ Meu projeto se baseia em EBOOK de 5 páginas de um resumo de meu trabalho de con
 
 
 ## 🧐 Processo de Criação
-Para o processo de criação do Ebook usei o ChatGPT para ler meu trabalho e resumir em 5 principais tópicos os principais capítulos para um ebook de 5 páginas. Já com o Leonardo AI criei uma sequência de imagens bem legais para ilustrar as explicações dessas tecnologias ao longo do texto. Feito tudo isso, editei através da ferramenta Pages por ser uma ferramenta que tenho mais facilidade.
+Para o processo de criação do Ebook usei o ChatGPT para ler meu trabalho e resumir em 6 principais tópicos os principais capítulos para um ebook de 8 páginas. Já com o Leonardo AI criei uma sequência de imagens bem legais para ilustrar as explicações dessas tecnologias ao longo do texto. Feito tudo isso, editei através da ferramenta Pages por ser uma ferramenta que tenho mais facilidade.
 
 ## 🚀 Resultados
-O trabalho apresenta um *review* bem legal de como os *smart textiles* já estão presentes no nosso cotidiano, bem como ilustrou varias empresas e protótipos já disponíveis no mercado.
+O trabalho apresenta um *review* bem legal de como os *smart textiles* já estão presentes no nosso cotidiano.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
